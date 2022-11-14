@@ -1,2 +1,2 @@
 # dataanalysis
-learning data file
+Explore datasets and build models from different insights
